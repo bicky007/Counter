@@ -1,4 +1,5 @@
 # Counter
+## JavaScript
 
 [Website live preview link](https://bicky007.github.io/Counter/)
 
